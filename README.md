@@ -13,11 +13,11 @@ With a projected graduation date of Fall 2025, my journey in Computer Informatio
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Linux Command Line          | <a href="https://github.com/jkmin687/Bandit-Lvl-1">Bandit Level 1</a>|
-| Text Processing and Searching | <a href=""></a>|
-| File Compression and Archiving         | |
-| SSH and Secure Connections     | |
-| Basic Security Concepts                 | |
-| Website Building                | |
+| Text Processing and Searching | <a href="https://github.com/jkmin687/Bandit-Lvl-4">Bandit Level 4</a>|
+| File Compression and Archiving         | <a href="https://github.com/jkmin687/Bandit-Level-12">Bandit Level 12</a> |
+| Encryption and Decryption     | <a href="https://github.com/jkmin687/OverTheWire-Lvl-10">Bandit Level 10</a>|
+| Website Building                | <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>|
+| Basic Security Concepts                 | <img src="https://tryhackme-badges.s3.amazonaws.com/jmin687.png" alt="TryHackMe"> |
 
 ## Tools
 
@@ -46,8 +46,7 @@ With a projected graduation date of Fall 2025, my journey in Computer Informatio
 
 ## Projects
 - OvertheWire
-- TryHackMe
-- CodePath WEB101 Custom Website
+- <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>
 
 ## Relevant Courses
 - Introduction to Programming
