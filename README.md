@@ -1,5 +1,5 @@
 # Hello, I am Justin Min
-<a href="www.linkedin.com/in/jkunm687"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[www.linkedin.com/in/jkunm687](https://www.linkedin.com/in/jkunm687/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am an undergraduate student at Georgia State University, majoring in Computer Information Systems with a focus on cybersecurity.
