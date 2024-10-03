@@ -16,7 +16,8 @@ With a projected graduation date of Fall 2025, my journey in Computer Informatio
 | Text Processing and Searching | <a href="https://github.com/jkmin687/Bandit-Lvl-4">Bandit Level 4</a>|
 | File Compression and Archiving         | <a href="https://github.com/jkmin687/Bandit-Level-12">Bandit Level 12</a> |
 | Encryption and Decryption     | <a href="https://github.com/jkmin687/OverTheWire-Lvl-10">Bandit Level 10</a>|
-| Website Building                | <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>|
+| Website Building                | <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>| 
+| OSINT, Cryptography, Log Analysis, Password Cracking | <a href="https://github.com/jkmin687/NCL-Hackathon/tree/main">NCL Hackathon</a>|
 | Basic Security Concepts                 | <img src="https://tryhackme-badges.s3.amazonaws.com/jmin687.png" alt="TryHackMe"> |
 
 ## Tools
@@ -47,6 +48,7 @@ With a projected graduation date of Fall 2025, my journey in Computer Informatio
 ## Projects
 - OvertheWire
 - <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>
+- <a href="https://github.com/jkmin687/NCL-Hackathon/tree/main">NCL Hackathon</a>
 
 ## Relevant Courses
 - Introduction to Programming
