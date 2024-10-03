@@ -12,7 +12,7 @@ With a projected graduation date of Fall 2025, my journey in Computer Informatio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Linux Command Line          | <a href=""></a>|
+| Linux Command Line          | <a href="https://github.com/jkmin687/Bandit-Lvl-1">Bandit Level 1</a>|
 | Text Processing and Searching | <a href=""></a>|
 | File Compression and Archiving         | |
 | SSH and Secure Connections     | |
