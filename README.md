@@ -41,8 +41,8 @@ With a projected graduation date of Fall 2025, my journey in Computer Informatio
 
 ## Certifications
 <div>
-<p>Security+ : End of October 2024</p>
-<p>AWS Cloud Practitioner : November 2024</p>
+<p>Security+ : End of November 2024</p>
+<p>AWS Cloud Practitioner : December 2024</p>
 </div>
 
 ## Projects
