@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jkunm687" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an undergraduate student at Georgia State University, majoring in Computer Information Systems with a focus on cybersecurity.
+I am an undergraduate student at Georgia State University, majoring in Computer Information Systems with a focus in cybersecurity.
 
 ## Objective
 
@@ -41,8 +41,7 @@ With a projected graduation date of Fall 2025, my journey in Computer Informatio
 
 ## Certifications
 <div>
-<p>Security+ : End of January 2025</p>
-<p>AWS Cloud Practitioner : January 2025</p>
+<p>Security+ : April 2025 </p>
 </div>
 
 ## Projects
