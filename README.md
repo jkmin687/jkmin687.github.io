@@ -32,7 +32,7 @@ With a projected graduation date of Fall 2025, my journey in Computer Informatio
     <img src="https://img.shields.io/badge/-CyberChef-3EBB8D?&style=for-the-badge&logo=CyberChef&logoColor=white" />
 </div>
 
-### Scipting Languages
+### Scripting Languages
 <div>
   <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
