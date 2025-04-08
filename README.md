@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jkunm687" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an undergraduate student at Georgia State University, majoring in Computer Information Systems with a focus in cybersecurity.
+I am a J. Mack Robinson College of Business undergraduate student at Georgia State University, majoring in Computer Information Systems with a focus in cybersecurity.
 
 ## Objective
 
@@ -18,7 +18,7 @@ With a projected graduation date of Fall 2025, my journey in Computer Informatio
 | Encryption and Decryption     | <a href="https://github.com/jkmin687/OverTheWire-Lvl-10">Bandit Level 10</a>|
 | Website Building                | <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>| 
 | OSINT, Cryptography, Log Analysis, Password Cracking | <a href="https://github.com/jkmin687/NCL-Hackathon/tree/main">NCL Hackathon</a>|
-| Basic Security Concepts                 | <img src="https://tryhackme-badges.s3.amazonaws.com/jmin687.png" alt="TryHackMe"> |
+| CompTIA Security+ Certificate                 | <a href="https://github.com/jkmin687/Security-Certificate">Certificate</a> |
 
 ## Tools
 
@@ -41,7 +41,7 @@ With a projected graduation date of Fall 2025, my journey in Computer Informatio
 
 ## Certifications
 <div>
-<p>Security+ : April 2025 </p>
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-009CDE?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
