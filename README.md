@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/jkunm687" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a J. Mack Robinson College of Business undergraduate student at Georgia State University, majoring in Computer Information Systems with a focus in cybersecurity.
+A passionate and dedicated undergraduate at Georgia State University's J. Mack Robinson College of Business, majoring in Computer Information Systems with a concentration in cybersecurity and hands-on experience in cloud risk assessment, compliance, and threat mitigation.
 
 ## Objective
 
-With a projected graduation date of Fall 2025, my journey in Computer Information Systems has fostered a profound interest in cybersecurity and a passion for protecting individuals and organizations from the ever-evolving landscape of cyber threats. I am committed to continuous learning and possess a proactive mindset and a positive attitude. I aim to contribute these qualities to a team while gaining hands-on experience through an internship.
+As a Computer Information Systems student graduating in Winter 2025, with hands-on experience in cloud risk assessment and a CompTIA Security+ certification, I am passionate about advancing cybersecurity. Through my internship with the GSU Cybersecuirty Services Team, I have developed skills in cloud security posture management, compliance frameworks, and risk mitigation strategies. I am eager to apply my proactive mindset and technical knowledge to contribute effectively to a cybersecurity team while continuing to grow professionally.
 
 ## Skills
 
@@ -19,17 +19,21 @@ With a projected graduation date of Fall 2025, my journey in Computer Informatio
 | Website Building                | <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>| 
 | OSINT, Cryptography, Log Analysis, Password Cracking | <a href="https://github.com/jkmin687/NCL-Hackathon/tree/main">NCL Hackathon</a>|
 | CompTIA Security+ Certificate                 | <a href="https://github.com/jkmin687/Security-Certificate">Certificate</a> |
+| Cloud Risk Assessment Capstone Internship                 | <a href="https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md">Risk Analyst Internship</a> |
 
-## Tools
+## Technical Stack 
 
-### Operating Systems
+### Operating Systems/Platforms 
 <div>
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div>
 
-### Data Manipulation
+### Tools
 <div>
     <img src="https://img.shields.io/badge/-CyberChef-3EBB8D?&style=for-the-badge&logo=CyberChef&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qualys_TotalCloud-E02826?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Prowler-3A6DA8?style=for-the-badge" />
 </div>
 
 ### Scripting Languages
