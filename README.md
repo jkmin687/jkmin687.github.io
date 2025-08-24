@@ -20,6 +20,8 @@ As a Computer Information Systems student graduating in Winter 2025, with hands-
 | OSINT, Cryptography, Log Analysis, Password Cracking | <a href="https://github.com/jkmin687/NCL-Hackathon/tree/main">NCL Hackathon</a>|
 | CompTIA Security+ Certificate                 | <a href="https://github.com/jkmin687/Security-Certificate">Certificate</a> |
 | Cloud Risk Assessment Capstone Internship                 | <a href="https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md">Risk Analyst Internship</a> |
+| HTB SOC Analyst Job Path               | <a href="https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md](https://github.com/jkmin687/HTB-SOC-Analyst)">SOC Analyst Job Path</a> |
+
 
 ## Technical Stack 
 
@@ -52,6 +54,7 @@ As a Computer Information Systems student graduating in Winter 2025, with hands-
 - OvertheWire
 - <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>
 - <a href="https://github.com/jkmin687/NCL-Hackathon/tree/main">NCL Hackathon</a>
+- <a href="https://github.com/jkmin687/NCL-Hackathon/tree/main">HTB SOC Analyst Job Path</a>
 
 ## Relevant Courses
 - Introduction to Programming
