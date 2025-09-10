@@ -36,6 +36,7 @@ I am a Computer Information Systems student graduating in Winter 2025 with a str
     <img src="https://img.shields.io/badge/-CyberChef-3EBB8D?&style=for-the-badge&logo=CyberChef&logoColor=white" />
     <img src="https://img.shields.io/badge/Qualys_TotalCloud-E02826?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Prowler-3A6DA8?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Sysmon-FF6F00?style=for-the-badge&logo=microsoft&logoColor=white" /> 
 </div>
 
 ### Scripting Languages
