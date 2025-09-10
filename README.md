@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/jkunm687" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-A passionate and dedicated undergraduate at Georgia State University's J. Mack Robinson College of Business, majoring in Computer Information Systems with a concentration in cybersecurity and hands-on experience in cloud risk assessment, compliance, and threat mitigation.
+It is a pleasure to meet you. I am a passionate and dedicated undergraduate at Georgia State University's J. Mack Robinson College of Business, majoring in Computer Information Systems with a concentration in cybersecurity and hands-on experience in cloud risk assessment, compliance, and threat mitigation.
 
 ## Objective
 
-As a Computer Information Systems student graduating in Winter 2025, with hands-on experience in cloud risk assessment and a CompTIA Security+ certification, I am passionate about advancing cybersecurity. Through my internship with the GSU Cybersecuirty Services Team, I have developed skills in cloud security posture management, compliance frameworks, and risk mitigation strategies. I am eager to apply my proactive mindset and technical knowledge to contribute effectively to a cybersecurity team while continuing to grow professionally.
+I am a Computer Information Systems student graduating in Winter 2025 with a strong passion for building a career in cybersecurity. During my internship with the GSU Cybersecurity Services Team, I gained hands-on experience in cloud security, compliance frameworks, and risk assessment, which showed me how impactful this field can be in protecting organizations. Earning my CompTIA Security+ certification has further fueled my drive to grow into a well-rounded professional who can adapt to challenges and contribute meaningfully from day one. I am eager to join a cybersecurity team where I can put my skills to work, keep learning, and make a real difference in strengthening security.
 
 ## Skills
 
@@ -62,3 +62,4 @@ As a Computer Information Systems student graduating in Winter 2025, with hands-
 - Introduction to Systems Analysis
 - CodePath WEB101 Intro to Web Development
 - Database Management Systems
+- HackTheBox SOC Analyst Job Role Path
