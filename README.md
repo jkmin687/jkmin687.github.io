@@ -12,6 +12,9 @@ I am a Computer Information Systems student graduating in Winter 2025 with a str
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Independent Vendor Risk Assessment Project               | <a href="https://github.com/jkmin687/SePurity-Vendor-Risk-Assessment-Project">SePurity, Inc.</a> |
+| Cloud Risk Assessment Capstone Internship                 | <a href="https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md">Risk Analyst Internship</a> |
+| HTB SOC Analyst Job Path               | <a href="https://github.com/jkmin687/HTB-SOC-Analyst">SOC Analyst Job Path</a> |
 | Linux Command Line          | <a href="https://github.com/jkmin687/Bandit-Lvl-1">Bandit Level 1</a>|
 | Text Processing and Searching | <a href="https://github.com/jkmin687/Bandit-Lvl-4">Bandit Level 4</a>|
 | File Compression and Archiving         | <a href="https://github.com/jkmin687/Bandit-Level-12">Bandit Level 12</a> |
@@ -19,8 +22,8 @@ I am a Computer Information Systems student graduating in Winter 2025 with a str
 | Website Building                | <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>| 
 | OSINT, Cryptography, Log Analysis, Password Cracking | <a href="https://github.com/jkmin687/NCL-Hackathon/tree/main">NCL Hackathon</a>|
 | CompTIA Security+ Certificate                 | <a href="https://github.com/jkmin687/Security-Certificate">Certificate</a> |
-| Cloud Risk Assessment Capstone Internship                 | <a href="https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md">Risk Analyst Internship</a> |
-| HTB SOC Analyst Job Path               | <a href="https://github.com/jkmin687/HTB-SOC-Analyst">SOC Analyst Job Path</a> |
+
+
 
 
 ## Technical Stack 
