@@ -6,7 +6,7 @@ It is a pleasure to meet you. I am a passionate and dedicated undergraduate at G
 
 ## Objective
 
-I am a Computer Information Systems student graduating in Winter 2025 with a strong passion for building a career in cybersecurity. During my internship with the GSU Cybersecurity Services Team, I gained hands-on experience in cloud security, compliance frameworks, and risk assessment, which showed me how impactful this field can be in protecting organizations. Earning my CompTIA Security+ certification has further fueled my drive to grow into a well-rounded professional who can adapt to challenges and contribute meaningfully from day one. I am eager to join a cybersecurity team where I can put my skills to work, keep learning, and make a real difference in strengthening security.
+I am a Computer Information Systems student graduating in Winter 2025 with a strong passion for building a career in cybersecurity. During my internship with the GSU Cybersecurity Services Team, I gained hands-on experience in cloud security, compliance frameworks, and risk assessment, which showed me how impactful this field can be in protecting organizations. Earning my CompTIA Security+ certification really solidified my drive to grow into a well-rounded professional who can adapt to challenges and contribute meaningfully from day one. I am eager to join a cybersecurity team where I can put my skills to work, keep learning, and make a real difference in strengthening security.
 
 ## Skills
 
