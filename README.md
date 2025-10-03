@@ -59,6 +59,7 @@ I am a Computer Information Systems student graduating in Winter 2025 with a str
 - <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>
 - <a href="https://github.com/jkmin687/NCL-Hackathon/tree/main">NCL Hackathon</a>
 - <a href="https://github.com/jkmin687/HTB-SOC-Analyst">HTB SOC Analyst Job Path</a>
+- <a href="https://github.com/jkmin687/SePurity-Vendor-Risk-Assessment-Project">SePurity, Inc.</a>
 
 ## Relevant Courses
 - Introduction to Programming
