@@ -12,6 +12,7 @@ Entry-level GRC Analyst with hands-on experience in risk assessments, policy dev
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| GRC Maturity Assessment Project              |  |
 | Independent Vendor Risk Assessment Project               | <a href="https://github.com/jkmin687/SePurity-Vendor-Risk-Assessment-Project">SePurity, Inc.</a> |
 | Cloud Risk Assessment Capstone Internship                 | <a href="https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md">Risk Analyst Internship</a> |
 | HTB SOC Analyst Job Path               | <a href="https://github.com/jkmin687/HTB-SOC-Analyst">SOC Analyst Job Path</a> |
