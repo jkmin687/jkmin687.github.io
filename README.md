@@ -13,7 +13,6 @@ Entry-level GRC Analyst with hands-on experience in risk assessments, policy dev
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | GRC Maturity Assessment Project              | <a href="https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main">NCSR-Based Cybersecurity Maturity Assessment</a> |
-| Independent Vendor Risk Assessment Project               | <a href="https://github.com/jkmin687/SePurity-Vendor-Risk-Assessment-Project">SePurity, Inc.</a> |
 | Cloud Risk Assessment Capstone Internship                 | <a href="https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md">Risk Analyst Internship</a> |
 | HTB SOC Analyst Job Path               | <a href="https://github.com/jkmin687/HTB-SOC-Analyst">SOC Analyst Job Path</a> |
 | Linux Command Line          | <a href="https://github.com/jkmin687/Bandit-Lvl-1">Bandit Level 1</a>|
