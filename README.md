@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jkunm687" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-It is a pleasure to meet you. I am a passionate and dedicated undergraduate at Georgia State University's J. Mack Robinson College of Business, majoring in Computer Information Systems with a concentration in cybersecurity and hands-on experience in cloud risk assessment, compliance, and threat mitigation.
+It is a pleasure to meet you. I am a passionate and dedicated graduate from Georgia State University's J. Mack Robinson College of Business, majoring in Computer Information Systems with a concentration in cybersecurity and hands-on experience in cloud risk assessment, compliance, and threat mitigation. Coupled with a professional legal background with a detail-oriented mindset, documentation skills, clear communication skills, sensitive evidence handling, and a passion for more. I would love to show how I may use these skills to bring value to your team.
 
 ## Objective
 
@@ -64,6 +64,7 @@ Entry-level GRC Analyst with hands-on experience in risk assessments, policy dev
 ## Relevant Courses
 - Introduction to Programming
 - Introdcution to Cybersecurity
+- Introduction to Web Development
 - Introduction to Systems Analysis
 - CodePath WEB101 Intro to Web Development
 - Database Management Systems
