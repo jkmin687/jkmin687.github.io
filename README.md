@@ -4,9 +4,6 @@
 
 It is a pleasure to meet you. I am a passionate and dedicated graduate from Georgia State University's J. Mack Robinson College of Business, majoring in Computer Information Systems with a concentration in cybersecurity and hands-on experience in cloud risk assessment, compliance, and threat mitigation. Coupled with a professional legal background with a detail-oriented mindset, documentation skills, clear communication skills, sensitive evidence handling, and a passion for more. I would love to show how I may use these skills to bring value to your team.
 
-## Objective
-
-Entry-level GRC Analyst with hands-on experience in risk assessments, policy development, and control monitoring including, but not limited to, NIST, ISO 27001, and SOC 2. Skilled in risk register management, compliance tracking, and translating technical data into actionable GRC strategies.
 
 ## Skills
 
