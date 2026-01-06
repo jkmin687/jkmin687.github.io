@@ -135,7 +135,7 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 - Microsoft Office
   - Word
   - PowerPoint
-  - Excel (Dashboarding/Risk Modeling, PivotTables, VLOOKUP)
+  - Excel (Pivot Tables, Dashboard, Risk Modeling, VLOOKUP)
 ---
 
 <a name="projects"></a>
