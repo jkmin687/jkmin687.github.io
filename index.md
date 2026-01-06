@@ -96,6 +96,7 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
   - GDPR
   - PCI DSS
   - SOX (Sarbanes-Oxley Act)
+  - COSO (Committee of Sponsoring Organizations of the Treadway Commission)
   - Nationwide Cybersecurity Review (NCSR)
   - NIST Cybersecurity Framework (CSF)
   - NIST Risk Management Framework (RMF)
