@@ -71,3 +71,10 @@ It is a pleasure to meet you. I am a passionate and dedicated graduate from Geor
 - CodePath WEB101 Intro to Web Development
 - Database Management Systems
 - HackTheBox SOC Analyst Job Role Path
+
+<a name="contact"></a>
+## 📫 Contact Information
+
+* **Email:** [justinmin687@gmail.com](mailto:justinmin687@gmail.com)
+* **LinkedIn:** [Justin Min](https://www.linkedin.com/in/jkunm687)
+* **GitHub:** [@jkmin687](https://github.com/jkmin687)
