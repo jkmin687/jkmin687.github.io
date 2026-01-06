@@ -1,89 +1,69 @@
 ---
-layout: page
-title: Welcome to My Portfolio
+layout: default
 ---
 
-# 👾 Welcome to My Cybersecurity Journey
+[Home](index.html) | [Projects](Projects.html) | [Resume](documents/Full_Resume.pdf) | [Blog](blog.html)
 
-I am a Georgia State University graduate (J. Mack Robinson College of Business) specializing in Computer Information Systems. I bridge the gap between technical security and the legal world, leveraging a background in documentation and evidence handling to secure cloud environments and ensure regulatory compliance.
+# 👨🏽‍💻 About Me
 
----
+Get to know the person behind the documentation. Below you will find a mix of my professional journey in cybersecurity GRC and the personal experiences that drive my detail-oriented approach to risk and compliance.
 
-### 📑 Table of Contents
-* [👨🏽‍💻 About Me](#about-me)
-* [🏛️ Background & Education](#background)
-* [🛡️ Skills & Technical Stack](#skills)
-* [📂 Featured Projects](#projects)
-* [📜 Resume](#resume)
-* [📫 Contact Information](#contact)
-
----
-
-<a name="about-me"></a>
-## 👨🏽‍💻 About Me
-
-My name is **Justin Min**. I am a passionate Cybersecurity professional with a concentration in **Cloud Risk Assessment, Compliance, and Threat Mitigation**. 
-
-What sets me apart is my **professional legal background**. This experience has instilled in me a detail-oriented mindset, exceptional documentation skills, and a disciplined approach to sensitive evidence handling—qualities that are essential for high-stakes GRC (Governance, Risk, and Compliance) and SOC roles. 
-
-[More about my journey →](AboutMe.html) | [Professional Statement →](Professional_Statement.html)
+### Table of Contents
+* [🤔 Who Am I?](#who-am-i)
+* [💡 Core Skills & Competencies](#core-skills)
+* [📄 Professional Statement](#professional-statement)
+* [🚀 Future Goals](#future-goals)
+* [🌐 Contact Me](#contact-me)
 
 ---
 
-<a name="background"></a>
-## 🏛️ Background & Education
+<a name="who-am-i"></a>
+## 🤔 Who Am I?
 
-**Georgia State University, J. Mack Robinson College of Business**
-*Bachelor of Business Administration in Computer Information Systems*
-*Concentration: Cybersecurity*
+Hi, I’m Justin Min. I am a graduate of Georgia State University’s J. Mack Robinson College of Business, where I concentrated on Computer Information Systems and Cybersecurity. 
 
-My education and internship experience focused on analyzing how technology supports business goals while maintaining a rigorous security posture. I have a proven track record in translating complex regulatory requirements into actionable technical controls.
+My path to cybersecurity is unique: I carry a **professional legal background** that has instilled in me a "compliance-first" mindset. In the legal world, every word in a contract matters; in the GRC world, every control in a framework matters. I’ve found that my ability to parse complex legal requirements translates perfectly into auditing system security and managing risk.
 
----
-
-<a name="skills"></a>
-## 🛡️ Skills & Technical Stack
-
-### 🎯 Core Competencies
-* **GRC:** Risk Assessments (NCSR/NIST), Maturity Assessments, Compliance Auditing.
-* **SOC Operations:** Log Analysis, Threat Detection, Incident Response.
-* **Legal & Policy:** Documentation, Evidence Handling, Regulatory Communication.
-
-### 🛠️ Technical Stack
-* **Platforms:** `Kali Linux`, `AWS (Amazon Web Services)`, `Qualys TotalCloud`
-* **Tools:** `Prowler`, `Sysmon`, `CyberChef`, `Wireshark`
-* **Scripting:** `Bash`, `Python`, `JavaScript`, `SQL`
+Outside of the digital world, I am [Insert your hobbies here - e.g., staying active, reading, or specific interests]. Much like cybersecurity, [Hobby X] requires [discipline/strategy/patience], which is a mindset I bring to every audit walkthrough and risk assessment I perform.
 
 ---
 
-<a name="projects"></a>
-## 📂 Featured Projects
+<a name="core-skills"></a>
+## 💡 Core Skills & Competencies
 
-### 🔎 NCSR-Based Maturity Assessment
-Conducted a full cybersecurity maturity assessment based on the National Cybersecurity Review (NCSR) framework.
-* [View Repository](https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main)
+I bridge the gap between technical security and regulatory compliance. My expertise is centered on:
 
-### ☁️ Cloud Risk Analyst Internship
-Analyzed cloud security postures and identified vulnerabilities in enterprise-scale environments.
-* [View Documentation](https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md)
-
----
-
-<a name="resume"></a>
-## 📜 Resume
-
-My resume is available for download as a PDF:
-👉 [Download Full Resume](documents/Full_Resume.pdf)
+* **GRC Frameworks:** NIST CSF, SOC 2, and ISO 27001.
+* **Identity & Access Management:** Experience with user lifecycle auditing, MFA enforcement, and Entra ID (formerly Azure AD).
+* **Security Architecture:** Designing and auditing cloud-based controls with a focus on Salesforce Shield and AWS security groups.
+* **Documentation & Reporting:** Leveraging my legal background to write clear, defensible audit reports and security policies.
+* **Technical Tools:** Splunk, Wireshark, Linux (Ubuntu/Kali), and Salesforce Security Health Check.
 
 ---
 
-<a name="contact"></a>
-## 📫 Contact Information
+<a name="professional-statement"></a>
+## 📄 Professional Statement
 
-I am always open to networking and discussing opportunities in GRC, Cloud Security, and Risk Management.
+I believe that cybersecurity is not just a technical challenge, but a governance and ethical one. My mission is to ensure that organizations aren't just "secure on paper," but resilient in practice. I prioritize integrity and transparency in every risk assessment I conduct.
 
-* **LinkedIn:** [Justin Min](https://www.linkedin.com/in/jkunm687)
+For a deeper reflection on my values and my approach to GRC, you can read my full statement here: [Read my Professional Statement](Professional_Statement.md).
+
+---
+
+<a name="future-goals"></a>
+## 🚀 Future Goals
+
+My immediate focus is mastering **Cloud Governance** and **Regulatory Technology (RegTech)**. I am currently working toward my **CompTIA Security+** and plan to pursue the **CISA (Certified Information Systems Auditor)** and **CISSP** as I progress into Senior Security Architecture roles.
+
+---
+
+<a name="contact-me"></a>
+## 🌐 Contact Me
+
+Feel free to connect with me:
+
 * **Email:** [justinmin687@gmail.com](mailto:justinmin687@gmail.com)
-* **GitHub:** [@jkmin687](https://github.com/jkmin687)
+* **LinkedIn:** [Justin Min](https://www.linkedin.com/in/jkunm687)
+* **GitHub:** [Your GitHub Link]
 
-[Back to the top ↑](#welcome-to-my-portfolio)
+**Thank you for visiting my page!**
