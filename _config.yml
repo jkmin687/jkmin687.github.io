@@ -1,29 +1,17 @@
-remote_theme: knhash/jekyllBear
-plugins:
-  - jekyll-remote-theme
-
+theme: jekyll-theme-minimal
 title: Justin Min
 description: Cybersecurity & Regulatory Compliance Specialist
 author: Justin Min
 
-email: justinmin687@gmail.com
-linkedin_username: jkunm687
-github_username: [YourGitHubUsername]
+# This removes the "View on GitHub" buttons for a cleaner, professional look
+show_downloads: false
 
 navigation:
   - title: Home
     url: /index.html
-  - title: Projects & Experience
+  - title: Projects
     url: /Projects.html
   - title: About Me
     url: /AboutMe.html
   - title: Resume
-    url: /documents/Full_Resume.pdf  
-  - title: Contact
-    url: /AboutMe.html#contact-me
-
-bear_counters: true
-show_description: true
-
-common_head:
-  - '<link rel="stylesheet" href="/css/style.css">'
+    url: /documents/Full_Resume.pdf
