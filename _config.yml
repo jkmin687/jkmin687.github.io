@@ -13,9 +13,9 @@ github_username: [YourGitHubUsername]
 navigation:
   - title: Home
     url: /index.html
-  - title: Projects
+  - title: Projects & Experience
     url: /Projects.html
-  - title: About
+  - title: About Me
     url: /AboutMe.html
   - title: Resume
     url: /documents/Full_Resume.pdf  
