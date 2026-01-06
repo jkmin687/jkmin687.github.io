@@ -24,3 +24,6 @@ navigation:
 
 bear_counters: true
 show_description: true
+
+header_includes:
+  - '<link rel="stylesheet" href="/assets/style.css">'
