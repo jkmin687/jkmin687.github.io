@@ -1,16 +1,12 @@
 theme: jekyll-theme-minimal
 title: Justin Min
-description: Cybersecurity & Regulatory Compliance Specialist
+description: >
+  Cybersecurity & GRC Specialist <br><br>
+  <a href="/index.html#contact" style="background-color: #003366; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; display: inline-block;">Contact Me</a>
 
-# Header Links (This creates your navigation)
 header_pages:
   - index.md
   - Projects.md
   - AboutMe.md
 
-# This allows us to link to the PDF and Section directly
-nav_links:
-  - title: Resume
-    url: /documents/Full_Resume.pdf
-  - title: Contact
-    url: /AboutMe.html#contact
+    
