@@ -1,4 +1,21 @@
-theme: jekyll-theme-minimal
-title: Justin Min | Cybersecurity & GRC Portfolio
-description: Cybersecurity Architect & GRC Specialist
-show_downloads: false
+remote_theme: knhash/jekyllBear
+plugins:
+  - jekyll-remote-theme
+
+title: Justin Min
+description: Cybersecurity & Regulatory Compliance Specialist
+author: Justin Min
+
+email: justinmin687@gmail.com
+linkedin_username: jkunm687
+github_username: [YourGitHubUsername]
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: Projects
+    url: /Projects.html
+  - title: About
+    url: /AboutMe.html
+  - title: Contact
+    url: /AboutMe.html#contact-me
