@@ -3,39 +3,6 @@ layout: post
 title: Welcome to My Portfolio
 ---
 
-<style>
-  :root {
-    --bg: #f5f5f5;          
-    --text: #111;          
-    --accent: #1b3d17;      
-    --header-color: #0d2609; 
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    color: var(--header-color) !important;
-    font-weight: 700 !important;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-    display: block;
-  }
-
-  body {
-    background-color: var(--bg) !important;
-    color: var(--text) !important;
-    line-height: 1.6;
-  }
-
-  a { color: var(--accent) !important; text-decoration: underline; }
-  
-  h1, h2 {
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 5px;
-  }
-
-  /* This ensures list items stay on their own lines */
-  li { margin-bottom: 8px; }
-</style>
-
 # 👾 Welcome to My Cybersecurity Journey
 
 I am a Georgia State University graduate (J. Mack Robinson College of Business) specializing in Computer Information Systems. I bridge the gap between technical security and the legal world, leveraging a background in documentation and evidence handling to secure cloud environments and ensure regulatory compliance.
