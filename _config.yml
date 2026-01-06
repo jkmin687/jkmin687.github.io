@@ -25,5 +25,5 @@ navigation:
 bear_counters: true
 show_description: true
 
-header_includes:
-  - '<link rel="stylesheet" href="/assets/style.css">'
+common_head:
+  - '<link rel="stylesheet" href="/css/style.css">'
