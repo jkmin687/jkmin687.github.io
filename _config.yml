@@ -17,6 +17,8 @@ navigation:
     url: /Projects.html
   - title: About
     url: /AboutMe.html
+  - title: Resume
+    url: /documents/Full_Resume.pdf  
   - title: Contact
     url: /AboutMe.html#contact-me
 
