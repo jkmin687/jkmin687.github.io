@@ -1,8 +1,6 @@
 theme: jekyll-theme-minimal
 title: Justin Min
-description: >
-  Cybersecurity & GRC Specialist <br><br>
-  <a href="/index.html#contact" style="background-color: #003366; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; display: inline-block;">Contact Me</a>
+description: Cybersecurity & GRC Specialist
 
 header_pages:
   - index.md
