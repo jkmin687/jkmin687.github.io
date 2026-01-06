@@ -1,17 +1,16 @@
 theme: jekyll-theme-minimal
 title: Justin Min
 description: Cybersecurity & Regulatory Compliance Specialist
-author: Justin Min
 
-# This removes the "View on GitHub" buttons for a cleaner, professional look
-show_downloads: false
+# Header Links (This creates your navigation)
+header_pages:
+  - index.md
+  - Projects.md
+  - AboutMe.md
 
-navigation:
-  - title: Home
-    url: /index.html
-  - title: Projects
-    url: /Projects.html
-  - title: About Me
-    url: /AboutMe.html
+# This allows us to link to the PDF and Section directly
+nav_links:
   - title: Resume
     url: /documents/Full_Resume.pdf
+  - title: Contact
+    url: /AboutMe.html#contact
