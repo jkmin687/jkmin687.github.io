@@ -2,7 +2,22 @@
 layout: post
 title: [Page Name]
 ---
-
+<style>
+  :root {
+    --bg: #f5f5f5;          
+    --text: #111;           
+    --font-main: "IBM Plex Mono", monospace;
+    --accent: #2d5a27;      
+    --glow-color-light: #2d5a27;
+  }
+  
+  body {
+    background-color: var(--bg) !important;
+    color: var(--text) !important;
+  }
+  
+  a { color: var(--accent) !important; }
+</style>
 # Welcome to My Portfolio
 
 Here, you will find 
