@@ -3,78 +3,91 @@ layout: default
 title: Home
 ---
 
-# Hello, I am Justin Min
-<a href="https://www.linkedin.com/in/jkunm687" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 🛡️ Justin Min | Cybersecurity & GRC Portfolio
+**Bridging the gap between Legal Precision and Technical Security.**
 
+Welcome to my professional showcase. I am a Cybersecurity specialist with a background that blends **Legal Analysis** with **Security Operations**. My work focuses on ensuring organizational resilience through robust risk assessment, cloud hardening, and regulatory alignment.
 
-It is a pleasure to meet you. I am a passionate and dedicated graduate from Georgia State University's J. Mack Robinson College of Business, majoring in Computer Information Systems with a concentration in cybersecurity and hands-on experience in cloud risk assessment, compliance, and threat mitigation. Coupled with a professional legal background with a detail-oriented mindset, documentation skills, clear communication skills, sensitive evidence handling, and a passion for more. I would love to show how I may use these skills to bring value to your team.
+[About Me](AboutMe.html) | [Technical Projects](Projects.html) | [Professional Resume](documents/Full_Resume.pdf)
 
+---
 
-## Skills
+### 📑 Executive Directory
+* [👨🏽‍💻 Professional Summary](#summary)
+* [💡 Core Competency Matrix](#matrix)
+* [🎓 Education & Credentials](#credentials)
+* [📂 High-Impact Projects](#projects)
+* [📫 Contact & Connection](#contact)
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| GRC Maturity Assessment Project              | <a href="https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main">NCSR-Based Cybersecurity Maturity Assessment</a> |
-| Cloud Risk Assessment Capstone Internship                 | <a href="https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md">Risk Analyst Internship</a> |
-| HTB SOC Analyst Job Path               | <a href="https://github.com/jkmin687/HTB-SOC-Analyst">SOC Analyst Job Path</a> |
-| Linux Command Line          | <a href="https://github.com/jkmin687/Bandit-Lvl-1">Bandit Level 1</a>|
-| Text Processing and Searching | <a href="https://github.com/jkmin687/Bandit-Lvl-4">Bandit Level 4</a>|
-| File Compression and Archiving         | <a href="https://github.com/jkmin687/Bandit-Level-12">Bandit Level 12</a> |
-| Encryption and Decryption     | <a href="https://github.com/jkmin687/OverTheWire-Lvl-10">Bandit Level 10</a>|
-| Website Building                | <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>| 
-| OSINT, Cryptography, Log Analysis, Password Cracking | <a href="https://github.com/jkmin687/NCL-Hackathon/tree/main">NCL Hackathon</a>|
-| CompTIA Security+ Certificate                 | <a href="https://github.com/jkmin687/Security-Certificate">Certificate</a> |
+---
 
+<a name="summary"></a>
+## 👨🏽‍💻 Professional Summary
+My name is **Justin Min**. I am a graduate of Georgia State University’s J. Mack Robinson College of Business with a degree in Computer Information Systems. 
 
+What defines my career is the transition from the **Legal Field to Cybersecurity**. In law, documentation is the shield; in cybersecurity, it is the blueprint. I leverage my experience in sensitive evidence handling and detail-oriented legal documentation to excel in **Governance, Risk, and Compliance (GRC)** and **SOC Analysis**.
 
+> **Mission Statement:** To protect the future of digital infrastructure by applying a "zero-error" legal mindset to technical security controls.
 
-## Technical Stack 
+---
 
-### Operating Systems/Platforms 
-<div>
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-</div>
+<a name="matrix"></a>
+## 💡 Core Competency Matrix
 
-### Tools
-<div>
-    <img src="https://img.shields.io/badge/-CyberChef-3EBB8D?&style=for-the-badge&logo=CyberChef&logoColor=white" />
-    <img src="https://img.shields.io/badge/Qualys_TotalCloud-E02826?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Prowler-3A6DA8?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Sysmon-FF6F00?style=for-the-badge&logo=microsoft&logoColor=white" /> 
-</div>
+| **Governance & Risk (GRC)** | **Security Operations (SOC)** | **Legal & Documentation** |
+| :--- | :--- | :--- |
+| NIST CSF / 800-53 | Threat Detection & Analysis | Sensitive Evidence Handling |
+| SOC 2 / ISO 27001 | Log Analysis (Splunk/Sentinel) | Regulatory Policy Writing |
+| Cloud Risk (Prowler/Qualys) | Vulnerability Management | Stakeholder Communication |
+| Maturity Assessments (NCSR) | Network Monitoring (Wireshark) | Legal Proofreading & Audit |
 
-### Scripting Languages
-<div>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-</div>
+### 🛠️ Technical Stack
+* **Operating Systems:** `Kali Linux`, `Windows Server`, `Linux (Ubuntu/Debian)`
+* **Cloud & Platforms:** `AWS`, `Azure`, `Qualys TotalCloud`
+* **Programming/Scripting:** `Python`, `SQL`, `Bash`, `JavaScript`
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-009CDE?style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+---
 
-## Projects
-- OvertheWire
-- <a href="https://github.com/jkmin687/Advocacy-Project">Advocacy Project</a>
-- <a href="https://github.com/jkmin687/NCL-Hackathon/tree/main">NCL Hackathon</a>
-- <a href="https://github.com/jkmin687/HTB-SOC-Analyst">HTB SOC Analyst Job Path</a>
-- <a href="https://github.com/jkmin687/SePurity-Vendor-Risk-Assessment-Project">SePurity, Inc.</a>
+<a name="credentials"></a>
+## 🎓 Education & Credentials
 
-## Relevant Courses
-- Introduction to Programming
-- Introdcution to Cybersecurity
-- Introduction to Web Development
-- Introduction to Systems Analysis
-- CodePath WEB101 Intro to Web Development
-- Database Management Systems
-- HackTheBox SOC Analyst Job Role Path
+### 🏛️ Education
+**Georgia State University**
+*Bachelor of Business Administration in Computer Information Systems*
+*Concentration: Cybersecurity*
+
+### 📜 Certifications
+* **CompTIA Security+**
+* **Qualys VMDR & TotalCloud Certified**
+* **Google Cybersecurity Professional**
+* **ISC2 Certified in Cybersecurity (CC)**
+
+---
+
+<a name="projects"></a>
+## 📂 High-Impact Projects
+
+### 🔎 NCSR-Based Maturity Assessment
+A strategic evaluation of organizational security posture using the National Cybersecurity Review framework to identify and remediate control gaps.
+* [View Technical Walkthrough](https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main)
+
+### ☁️ Cloud Risk Analyst Internship
+Focused on cloud-native security, utilizing tools like Prowler and Qualys to assess risk within AWS environments.
+* [View Findings & Methodology](https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md)
+
+### 🛡️ HTB SOC Analyst Job Path
+A deep dive into defensive security, covering endpoint protection, network forensics, and incident handling.
+* [View Lab Progress](https://github.com/jkmin687/HTB-SOC-Analyst)
+
+---
 
 <a name="contact"></a>
-## 📫 Contact Information
+## 📫 Contact & Connection
+I am always open to discussing GRC opportunities, security architecture, or legal-tech intersections.
 
-* **Email:** [justinmin687@gmail.com](mailto:justinmin687@gmail.com)
 * **LinkedIn:** [Justin Min](https://www.linkedin.com/in/jkunm687)
+* **Email:** [justinmin687@gmail.com](mailto:justinmin687@gmail.com)
 * **GitHub:** [@jkmin687](https://github.com/jkmin687)
+
+---
+[Back to Top ↑](#)
