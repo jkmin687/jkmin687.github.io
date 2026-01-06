@@ -1,6 +1,10 @@
 theme: jekyll-theme-minimal
 title: Justin Min
-description: Cybersecurity & GRC Specialist
+description: >
+  Cybersecurity & GRC Specialist
+  <br><br>
+  <a href="/documents/Full_Resume.pdf" style="background-color: #003366; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; display: block; text-align: center; margin-bottom: 10px;">📄 View Resume</a>
+  <a href="/index.html#contact" style="background-color: #444; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; display: block; text-align: center;">📫 Contact Me</a>
 
 header_pages:
   - index.md
