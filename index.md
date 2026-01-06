@@ -5,7 +5,7 @@ title: Home
 
 # 👾 Welcome to My Portfolio!
 
-Welcome to my professional showcase. Here, you’ll find my journey through the world of cybersecurity—specifically focused on **Governance, Risk, and Compliance (GRC)** and **Cloud Security**. My approach combines a rigorous legal background with technical expertise to build resilient, compliant, and secure environments.
+Welcome to my professional showcase. Here, you’ll find my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
 
 ### 🧭 Navigation
 [About Me](AboutMe.html) | [Projects](Projects.html) | [Resume](documents/Full_Resume.pdf)
@@ -25,37 +25,49 @@ Welcome to my professional showcase. Here, you’ll find my journey through the 
 
 <a name="about-me"></a>
 ## 👨🏽‍💻 About Me
-My name is **Justin Min**, and I am a cybersecurity professional specializing in cloud risk assessment, compliance, and threat mitigation. I hold a degree from Georgia State University’s J. Mack Robinson College of Business, where I focused on Computer Information Systems.
+My name is Justin Min, and I am a Governance, Risk, and Compliance (GRC) professional specialized in bridging the gap between regulatory requirements and technical security. I hold a degree from Georgia State University’s J. Mack Robinson College of Business, where I majored in Computer Information Systems with a focus on Cybersecurity.
 
-I leverage a unique **professional legal background** to bring a detail-oriented mindset to security documentation, sensitive evidence handling, and regulatory communication. I am committed to defending critical systems and ensuring technology works within safe, compliant frameworks.
+With a unique background in legal compliance and cybersecurity, I have hands-on experience translating complex laws (e.g. NIST, SOX, ISO 27001) into actionable security strategies. I am continually advancing my expertise in IT auditing, risk assessment, and control automation, applying a risk-centric mindset to protect critical assets. My approach blends a detail-oriented mindset with technical efficiency to enhance organizational resilience and streamline compliance maturity.
 
-> **Read more:** [More about me](AboutMe.html) | [Professional Statement](Professional_Statement.html)
+###  _Protecting the future by securing the present._
+
+**Read more:** [More about me](AboutMe.html) | [Professional Statement](Professional_Statement.html)
 
 ---
 
 <a name="background"></a>
 ## 📖 Professional Background
-I began my career in the legal field, where precision, documentation, and analytical thinking were paramount. In the law, a single word can change a contract; in cybersecurity, a single misconfigured control can compromise an enterprise. 
+I began my academic journey in Computer Information Systems with a focus on Cybersecurity, fascinated by the technical architecture of cybersecurity. However, it was during a pivotal Cybersecuirty Cloud Risk Analyst capstone internship that my true passion ignited. I realized that effective security wasn't just about firewalls—it was about governance, strategy, and managing the human element of risk.
 
-This curiosity led me to bridge the gap between legal policy and technical implementation. Today, I combine my legal precision with technical security practices to protect infrastructure, strengthen identity management, and navigate complex regulatory landscapes like **NIST**, **SOC 2**, and **ISO 27001**.
+Driven to master the regulatory side of this equation, I immersed myself in the legal field as a Paralegal. This role allowed me to sharpen my skills in regulatory compliance, forensic documentation, and auditing, instilling the precise, detail-oriented mindset that is critical for Cybersecurity GRC. As I continued to apply these legal skills to technical challenges—through hands-on projects and virtual simulations—my commitment to the GRC field only deepened.
+
+Today, I possess a unique blend of experiences that bridge the gap between legal precision and technical cybersecurity. My journey reflects a deliberate pursuit of the "why" and "how" behind security frameworks, with a clear mission to build resilient, compliant, and secure infrastructures for the future.
 
 ---
 
 <a name="certifications"></a>
-## 🎓 Certifications
+## 🎓 Certifications & Badges
 * **CompTIA Security+**
-* **Qualys TotalCloud / VMDR Knowledge**
-* **Google Cybersecurity Professional**
-* **ISC2 Certified in Cybersecurity (Candidate)**
+* **ISACA CISA (In Progress)**
+* **AWS Academy Cloud Security Foundations**
+* **ServiceNow System Adminsitrator Associate (In Progress)**
+* **Qualys Vulnerability Management (In Progress)**
+* **Qualys Policy Complaince**
+
 
 ---
 
 <a name="education"></a>
-## 🎓 Education
-**Georgia State University, J. Mack Robinson College of Business**
-*Bachelor of Business Administration in Computer Information Systems*
-*Concentration: Cybersecurity*
-
+## 🎓 Education & Affiliations
+- ***SANS Technology Institute*** (Feb. 2025 - October 2025)
+  - Selected for a prestigious and intensive cybersecurity program with courses designed to provide hands-on experience in offensive and defensive security techniques.
+  - Anticipated completion of industry-leading certifications such as GIAC Security Foundations **(GFACT)**, GIAC Security Essentials **(GSEC)**, and GIAC Certified Incident Handler **(GCIH)**.
+- ***Georgia State University, Atlanta, GA*** (2020-2025)
+  - Bachelor's in Business Administration, Major in Computer Information Systems, Concentration in Cybersecurity
+  - Completed coursework in _Business Statistics, Macro-Economics, Micro-Economics, Principles of Accounting, Operations Management, Financial Modeling, Investment Analysis, Financial Markets
+- ***North Gwinnett High School, Suwanee, GA*** (2016-2020)
+  - High School Diploma
+  - Graduated from a Top 20 ranked Georgia high school, known for College Prep and STEM
 ---
 
 <a name="skills"></a>
