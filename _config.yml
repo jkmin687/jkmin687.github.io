@@ -19,3 +19,6 @@ navigation:
     url: /AboutMe.html
   - title: Contact
     url: /AboutMe.html#contact-me
+
+bear_counters: true
+show_description: true
