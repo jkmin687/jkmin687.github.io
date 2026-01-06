@@ -1,3 +1,4 @@
 ---
-layout: default
+layout: post
+title: [Page Name]
 ---
