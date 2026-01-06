@@ -1,4 +1,4 @@
-theme: jekyll-theme-structured
+remote_theme: mmistakes/minimal-mistakes
 title: Justin Min | GRC Portfolio
-description: Cybersecurity Architect & GRC Specialist
+description: Cybersecurity & GRC 
 show_downloads: false
