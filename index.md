@@ -80,6 +80,7 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 - Risk Assessment & Mitigation
 - Risk Register
 - Risk Management
+- Risk Matrix
 - Dashboarding
 - Compliance Mapping
 - Cross-Walking Frameworks
@@ -140,12 +141,12 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 ## 📂 Featured Projects & Experiences
 
 ### 🔎 [ServiceNow Compliance & Risk Automated Dashboard](https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main)
-- Developed, built, and deployed a custom Governance, Risk, and Compliance (GRC) application within the ServiceNow platform. The goal was to transition from manual, spreadsheet-based compliance tracking to an automated, centralized system based on the NIST 800-53 framework.
-- The system ingests security control data, automates risk scoring based on compliance status, and visualizes real-time security posture for executive stakeholders.
+- Developed, built, and deployed a **custom Governance, Risk, and Compliance (GRC) application** within the **ServiceNow platform**. 
+- The system ingests security control data, automates risk scoring based on compliance status with **NIST SP 800-53**, and visualizes real-time security posture for executive stakeholders.
 
 ### ☁️ [Cloud Risk Analyst Internship](https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md)
-- Served as a Cybersecuirty Cloud Risk Anlayst, scanning and identifying vulnerabilities in an AWS cloud environment.
-- Mapped controls to NIST SP 800-171 and developed a risk register complete with risk matrices, severity classfication, mitigation recommendations, and cross-framework mapping to ISCO 2001 and SOC 2.
+- Served as a **Cybersecuirty Cloud Risk Anlayst**, scanning and identifying vulnerabilities in an **AWS cloud environment**.
+- Mapped controls to **NIST SP 800-171** and developed a risk register complete with *risk matrices*, severity classfication, mitigation recommendations, and cross-framework mapping to ISCO 2001 and SOC 2.
 
 ### 🛡️ [PwC CyberSecurity Consulting Program](https://github.com/jkmin687/HTB-SOC-Analyst)
 - Served as a **Cyber Security Consultant** to assess a client's **Procure-to-Pay (P2P)** lifecycle against **SOX compliance** requirements, identifying **6 key control failures** including Segregation of Duties (SoD) conflicts.
