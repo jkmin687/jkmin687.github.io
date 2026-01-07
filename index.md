@@ -106,7 +106,6 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 - Risk Matrix
 - Third-Party Risk Management (TPRM)
  
-
 ### 💼 Professional Skills
   - Attention to Detail
   - Critical Thinking
