@@ -41,4 +41,4 @@ My long-term vision is to serve as a **Chief Information Security Officer (CISO)
 I am driven by the challenge of bringing harmoney in a world of chaos and the responsibility of protecting the data that powers our modern world.
 
 ---
-[Back to Top ↑](#)
+[Back to the Main Portfolio](index.md)
