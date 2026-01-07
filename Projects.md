@@ -68,10 +68,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 <a name="certifications"></a>
 ## Certifications
 
-### CompTIA Security+ Certification
-   - **Identity & Access Management (IAM):** Configured Group Policy Objects (GPOs) in a Windows Server environment to enforce password complexity and lockout policies.
-   - **Network Security:** Utilized **Wireshark** to capture and analyze packet traffic, identifying clear-text credentials and simulating man-in-the-middle attacks.
-   - **Vulnerability Scanning:** Deployed **Nessus Essentials** to scan a local network, interpreting severity scores and patching identified vulnerabilities in a controlled sandbox environment.
+- [CompTIA Security+ Certification](images/CompTIA Security+ ce certificate.pdf)
 
 ---
 
