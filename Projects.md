@@ -68,7 +68,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 <a name="certifications"></a>
 ## Certifications
 
-- [CompTIA Security+ Certification](images/CompTIA Security+ ce certificate.pdf)
+  - [CompTIA Security+ Certification](images/CompTIA Security+ ce certificate.pdf)
 
 ---
 
