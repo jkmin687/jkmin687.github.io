@@ -49,7 +49,7 @@ I have built practical experience configuring **ServiceNow** for GRC application
 
 I am deeply committed to the strategic side of cybersecurity, ensuring that organizations can operate safely in a high-threat landscape. My core values—**Integrity**, **Precision**, and **Resilience**—shape my approach to all aspects of my life.
 
-For a deeper reflection on my values, methodology, and what drives me professionally, you can read my full professional statement here: [Read my Professional Statement](Professional_Statement.html).
+For a deeper reflection on my values, methodology, and what drives me professionally, you can read my full professional statement here: [Read my Professional Statement](ProessionalStatement.md).
 
 ---
 
