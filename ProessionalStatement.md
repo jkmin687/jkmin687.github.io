@@ -32,7 +32,7 @@ Some hands-on experience includes:
 * **Framework Alignment:** Mapping controls across **NIST SP 800-53**, **ISO 27001**, and **SOX** to eliminate redundancy.
 * **Vulnerability Management:** Utilizing tools like **Qualys** and **AWS Prowler** to assess posture and prioritize remediation based on criticality.
 
-*Read more about* [my projects and experiences.](Projects.md)
+**Read More:** [my projects and experiences.](Projects.md)
 
 ### 🔮 The Path Forward
 
