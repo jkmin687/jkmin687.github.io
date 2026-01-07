@@ -143,17 +143,28 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 <a name="projects"></a>
 ## 📂 Featured Projects & Experiences
 
-### 🔎 [ServiceNow Compliance & Risk Automated Dashboard](https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main)
-- Developed, built, and deployed a **custom Governance, Risk, and Compliance (GRC) application** within the **ServiceNow platform**. 
-- The system ingests security control data, automates risk scoring based on compliance status with **NIST SP 800-53**, and visualizes real-time security posture for executive stakeholders.
+### Cloud Risk Analyst Internship: AWS & NIST 800-171
+[View Full Report](https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md)
+   - Served as a **Cloud Risk Analyst** responsible for assessing the security posture of a simulated **AWS environment** handling Controlled Unclassified Information (CUI).
+   - **Executed Automated Vulnerability Scans** using **AWS Prowler** and **Qualys TotalCloud**, analyzing thousands of lines of JSON output to identify critical misconfigurations such as open S3 buckets and lack of MFA on root accounts.
+   - **Performed Framework Mapping**, translating technical scan findings into **NIST SP 800-171** control gaps (e.g., Mapping "MFA Missing" to *Control 3.5.3*).
+   - **Developed a Risk Register**, calculating risk scores based on likelihood and impact, and assigning severity levels (Critical/High/Medium/Low) to guide executive remediation prioritization.
+   - **Cross-Walked Compliance Standards**, demonstrating how the identified NIST gaps also resulted in non-compliance with **ISO 27001** and **SOC 2** requirements.
 
-### ☁️ [Cloud Risk Analyst Internship](https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md)
-- Served as a **Cybersecurity Cloud Risk Analyst**, scanning and identifying vulnerabilities in an **AWS cloud environment**.
-- Mapped controls to **NIST SP 800-171** and developed a risk register complete with *risk matrices*, severity classfication, mitigation recommendations, and cross-framework mapping to ISO 27001 and SOC 2.
+### PwC Cyber Security Consulting Program: SOX & ITGC
+[View Full Report](programs/PwC_Cyber_Security_Consulting_Program.pdf)
+   - Served as a **Cyber Security Consultant** assessing a client's **Procure-to-Pay (P2P) Standard Operating Procedures (SOP)** lifecycle against **Sarbanes-Oxley (SOX)** compliance requirements.
+   - **Conducted Segregation of Duties (SoD) Analysis**, identifying a critical control failure where a single user possessed the ability to both *create* a vendor and *process* payments, creating a high risk for fraud.
+   - **Executed Test of Design (ToD)** and **Operating Effectiveness (OE)** testing on IT General Controls (ITGCs), specifically reviewing Change Management logs and Access Control lists.
+   - **Drafted an Audit Deficiencies Report**, clearly documenting the "Condition, Criteria, Cause, and Effect" of the identified failures.
+   - **Presented Strategic Remediation Plans** to the Audit Committee, recommending the implementation of Role-Based Access Control (RBAC) to resolve the SoD conflicts.
 
-### 🛡️ [PwC CyberSecurity Consulting Program](programs/PwC_Cyber_Security_Consulting_Program.pdf)
-- Served as a **Cyber Security Consultant** to assess a client's **Procure-to-Pay (P2P)** lifecycle against **SOX compliance** requirements, identifying **6 key control failures** including Segregation of Duties (SoD) conflicts.
-- Conducted **Test of Design (ToD)** and **Operating Effectiveness (OE)** testing on IT General Controls (ITGCs), documenting evidence failures in Change Management and drafting a strategic remediation plan for senior stakeholders.
+### ServiceNow GRC: "NIST ComplianceGuard" Application
+[View Full Repository](https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main)
+   - Designed, architected, and deployed a **custom GRC application** within **ServiceNow** to automate the lifecycle of **NIST SP 800-53** controls.
+   - **Built Custom Data Tables** to ingest Authority Documents (NIST Standards), creating a relational database that links specific regulations to internal policy citations.
+   - **Created Executive Dashboards**, visualizing real-time compliance posture using pie charts and heat maps to show the percentage of "Compliant" vs. "Non-Compliant" controls.
+   - **Reduced Audit Fatigue**, demonstrating how automated evidence collection can reduce the manual workload of spreadsheet-based compliance by over 40%.
 
 [More projects, labs, programs, and experiences](Projects.md) will be added to my project portfolio as I continue to develop my skills and complete new work.
 
