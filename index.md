@@ -119,24 +119,24 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
   - Teamwork
 
 ### 🧠 Core Security Concepts
-- Identity and Access Management (IAM)
-- Zero Trust Architecture Principles
-- Cloud & Enterprise Security 
-- Vulnerability Management 
 - CIA Triad
+- Cloud & Enterprise Security 
 - Data Privacy
+- Identity and Access Management (IAM)
 - Least Privilege
+- Vulnerability Management 
+- Zero Trust Architecture Principles
 
 ### 🛠️ Tools & Languages
-- ServiceNow
-- Qualys
 - AWS Prowler
-- Python 
-- SQL
 - Microsoft Office
   - Word
   - PowerPoint
   - Excel (Pivot Tables, Dashboard, Risk Modeling, VLOOKUP)
+- Python 
+- Qualys
+- ServiceNow
+- SQL
   
 ---
 
