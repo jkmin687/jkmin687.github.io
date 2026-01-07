@@ -149,7 +149,7 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 - Served as a **Cybersecuirty Cloud Risk Anlayst**, scanning and identifying vulnerabilities in an **AWS cloud environment**.
 - Mapped controls to **NIST SP 800-171** and developed a risk register complete with *risk matrices*, severity classfication, mitigation recommendations, and cross-framework mapping to ISCO 2001 and SOC 2.
 
-### 🛡️ [PwC CyberSecurity Consulting Program](https://github.com/jkmin687/HTB-SOC-Analyst)
+### 🛡️ [PwC CyberSecurity Consulting Program](programs/PwC_Cyber_Security_Consulting_Program.pdf)
 - Served as a **Cyber Security Consultant** to assess a client's **Procure-to-Pay (P2P)** lifecycle against **SOX compliance** requirements, identifying **6 key control failures** including Segregation of Duties (SoD) conflicts.
 - Conducted **Test of Design (ToD)** and **Operating Effectiveness (OE)** testing on IT General Controls (ITGCs), documenting evidence failures in Change Management and drafting a strategic remediation plan for senior stakeholders.
 
