@@ -23,7 +23,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
   - [ServiceNow GRC: NIST ComplianceGuard App](#servicenow-grc-nist-complianceguard-application)
   - [Web Development: CodePath Intro to Web Dev](#codepath-web-development-project)
 - [Certifications](#certifications)
-  - [CompTIA Security+ Certification](#comptia-security+-certification)
+  - [CompTIA Security+ Certification](#certifications)
 
 ---
 
@@ -68,7 +68,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 <a name="certifications"></a>
 ## Certifications
 
-  - [CompTIA Security+ Certification](images/CompTIA Security+ ce certificate.pdf)
+  - [CompTIA Security+ Certification](images/CompTIA_Security+_Certificate.pdf)
 
 ---
 
