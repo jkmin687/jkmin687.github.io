@@ -18,10 +18,12 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 ## Table of Contents
 - [Programs & Internships](#programs-and-internships)
   - [Cloud Risk Analyst Internship (AWS)](#aws-project)
-  - [PwC Cybersecurity Consulting (SOX Audit)](#pwc-cybersecurity-consulting-program-sox--itgc)
+  - [Deloitte Cyber Program](#deloitte)
+  - [PwC Cybersecurity Consulting (SOX Audit)](#pwc-cybersecurity)
+  
 - [Technical Projects](#projectsactivities)
-  - [ServiceNow GRC: NIST ComplianceGuard App](#servicenow-grc-nist-complianceguard-application)
-  - [Web Development: CodePath Intro to Web Dev](#codepath-web-development-project)
+  - [ServiceNow GRC: NIST ComplianceGuard App](#servicenow)
+  - [Web Development: CodePath Intro to Web Dev](#codepath)
 - [Certifications](#certifications)
   - [CompTIA Security+ Certification](#certifications)
 
@@ -39,10 +41,14 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
    - **Developed a Risk Register**, calculating risk scores based on likelihood and impact, and assigning severity levels (Critical/High/Medium/Low) to guide executive remediation prioritization.
    - **Cross-Walked Compliance Standards**, demonstrating how the identified NIST gaps also resulted in non-compliance with **ISO 27001** and **SOC 2** requirements.
 
-<a name="pwc-cybersecurity-consulting-program-sox--itgc"></a>
+<a name="deloitte"></a>
+### Deloitte Cyber Program
+[View Full Report]()
+
+<a name="pwc-cybersecurity"></a>
 ### PwC Cyber Security Consulting Program: SOX & ITGC
 [View Full Report](programs/PwC_Cyber_Security_Consulting_Program.pdf)
-   - Served as a **Cyber Security Consultant** engaged to assess a client's **Procure-to-Pay (P2P) Standard Opoerating Procedures (SOP)** lifecycle against **Sarbanes-Oxley (SOX)** compliance requirements.
+   - Served as a **Cyber Security Consultant** assessing a client's **Procure-to-Pay (P2P) Standard Operating Procedures (SOP)** lifecycle against **Sarbanes-Oxley (SOX)** compliance requirements.
    - **Conducted Segregation of Duties (SoD) Analysis**, identifying a critical control failure where a single user possessed the ability to both *create* a vendor and *process* payments, creating a high risk for fraud.
    - **Executed Test of Design (ToD)** and **Operating Effectiveness (OE)** testing on IT General Controls (ITGCs), specifically reviewing Change Management logs and Access Control lists.
    - **Drafted an Audit Deficiencies Report**, clearly documenting the "Condition, Criteria, Cause, and Effect" of the identified failures.
@@ -53,7 +59,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 <a name="projectsactivities"></a>
 ## Technical Projects
 
-<a name="servicenow-grc-nist-complianceguard-application"></a>
+<a name="servicenow"></a>
 ### ServiceNow GRC: "NIST ComplianceGuard" Application
 [View Full Repository](https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main)
    - Designed, architected, and deployed a **custom GRC application** within **ServiceNow** to automate the lifecycle of **NIST SP 800-53** controls.
@@ -61,10 +67,10 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
    - **Created Executive Dashboards**, visualizing real-time compliance posture using pie charts and heat maps to show the percentage of "Compliant" vs. "Non-Compliant" controls.
    - **Reduced Audit Fatigue**, demonstrating how automated evidence collection can reduce the manual workload of spreadsheet-based compliance by over 40%.
 
-<a name="codepath-web-development-project"></a>
+<a name="codepath"></a>
 ### CodePath Intro to Web Development Project
-   - Completed an intensive 10-week **Intro to Web Development** course, gaining foundational knowledge in the software development lifecycle (SDLC).
-   - **Developed a Responsive Website** utilizing **HTML, StyleCSS, and JavaScript**, ensuring cross-browser compatibility and mobile responsiveness.
+   - Completed an intensive 10-week **Intro to Web Development** course, gaining foundational knowledge in developing a function website from the bottom-up.
+   - **Developed a Responsive Website** utilizing **HTML, CSS, and JavaScript**, ensuring cross-browser compatibility and mobile responsiveness.
    - **Implemented API Integrations**, fetching data from external sources to display dynamic content to the user.
 
 ---
