@@ -17,7 +17,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 ## Table of Contents
 - [Programs & Internships](#programs-and-internships)
-  - [Cloud Risk Analyst Internship (AWS)](#cloud-risk-analyst-internship-aws--nist-800-171)
+  - [Cloud Risk Analyst Internship (AWS)](#aws-project)
   - [PwC Cybersecurity Consulting (SOX Audit)](#pwc-cybersecurity-consulting-program-sox--itgc)
 - [Technical Projects](#projectsactivities)
   - [ServiceNow GRC: NIST ComplianceGuard App](#servicenow-grc-nist-complianceguard-application)
@@ -30,6 +30,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 <a name="programs-and-internships"></a>
 ## Programs & Internships
 
+<a name="aws-project"></a>
 ### Cloud Risk Analyst Internship: AWS & NIST 800-171
 [View Full Report](https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md)
    - Served as a **Cloud Risk Analyst** responsible for assessing the security posture of a simulated **AWS environment** handling Controlled Unclassified Information (CUI).
@@ -38,6 +39,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
    - **Developed a Risk Register**, calculating risk scores based on likelihood and impact, and assigning severity levels (Critical/High/Medium/Low) to guide executive remediation prioritization.
    - **Cross-Walked Compliance Standards**, demonstrating how the identified NIST gaps also resulted in non-compliance with **ISO 27001** and **SOC 2** requirements.
 
+<a name="pwc-cybersecurity-consulting-program-sox--itgc"></a>
 ### PwC Cyber Security Consulting Program: SOX & ITGC
 [View Full Report](programs/PwC_Cyber_Security_Consulting_Program.pdf)
    - Served as a **Cyber Security Consultant** engaged to assess a client's **Procure-to-Pay (P2P) Standard Opoerating Procedures (SOP)** lifecycle against **Sarbanes-Oxley (SOX)** compliance requirements.
@@ -51,6 +53,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 <a name="projectsactivities"></a>
 ## Technical Projects
 
+<a name="servicenow-grc-nist-complianceguard-application"></a>
 ### ServiceNow GRC: "NIST ComplianceGuard" Application
 [View Full Repository](https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main)
    - Designed, architected, and deployed a **custom GRC application** within **ServiceNow** to automate the lifecycle of **NIST SP 800-53** controls.
@@ -58,6 +61,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
    - **Created Executive Dashboards**, visualizing real-time compliance posture using pie charts and heat maps to show the percentage of "Compliant" vs. "Non-Compliant" controls.
    - **Reduced Audit Fatigue**, demonstrating how automated evidence collection can reduce the manual workload of spreadsheet-based compliance by over 40%.
 
+<a name="codepath-web-development-project"></a>
 ### CodePath Intro to Web Development Project
    - Completed an intensive 10-week **Intro to Web Development** course, gaining foundational knowledge in the software development lifecycle (SDLC).
    - **Developed a Responsive Website** utilizing **HTML, StyleCSS, and JavaScript**, ensuring cross-browser compatibility and mobile responsiveness.
