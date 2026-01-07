@@ -36,7 +36,7 @@ With a unique background in legal compliance and cybersecurity, I have hands-on 
 
 <a name="background"></a>
 ## 📖 Professional Background
-I began my academic journey in Computer Information Systems with a focus on Cybersecurity, fascinated by the technical architecture of cybersecurity. However, it was during a pivotal Cybersecuirty Cloud Risk Analyst capstone internship that my true passion ignited. I realized that effective security wasn't just about firewalls—it was about governance, strategy, and managing the human element of risk.
+I began my academic journey in Computer Information Systems with a focus on Cybersecurity, fascinated by the technical architecture of cybersecurity. However, it was during a pivotal Cybersecurity Cloud Risk Analyst capstone internship that my true passion ignited. I realized that effective security wasn't just about firewalls—it was about governance, strategy, and managing the human element of risk.
 
 Driven to master the regulatory side of this equation, I immersed myself in the legal field as a Paralegal. This role allowed me to sharpen my skills in regulatory compliance, forensic documentation, and auditing, instilling the precise, detail-oriented mindset that is critical for Cybersecurity GRC. As I continued to apply these legal skills to technical challenges—through hands-on projects and virtual simulations—my commitment to the GRC field only deepened.
 
@@ -50,18 +50,18 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 * **ISACA CISA (In Progress)**
 * **AWS Academy Cloud Security Foundations**
 * **Qualys Vulnerability Management** (In Progress)
-* **Qualys Policy Complaince** (In Progress)
-* **ServiceNow System Adminsitrator Associate** (In Progress)
+* **Qualys Policy Compliance** (In Progress)
+* **ServiceNow System Administrator Associate** (In Progress)
 
 ---
 
 <a name="education"></a>
 ## 🎓 Education & Affiliations
 - ***ISACA Atlanta Chapter*** (Since 2026)
-  - Memeber of ISACA's Atlanta Chapter 
+  - Member of ISACA's Atlanta Chapter 
 - ***Codepath, Intro to Web Development 101*** (Fall 2023)
   - Completed an introduction to Web Development course provided by Codepath.
-  - Designed and deployed a mock website utiling HTMl, CSS, and JavaScript. 
+  - Designed and deployed a mock website utilizing HTML, CSS, and JavaScript. 
 - ***Georgia State University, Atlanta, GA*** (2020-2025)
   - Bachelor's in Business Administration, Major in Computer Information Systems, Concentration in Cybersecurity, Minor in Korean Language
   - Clubs: Programming Club (Event Lead), Women in Tech, Cybersecurity Club
@@ -148,8 +148,8 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 - The system ingests security control data, automates risk scoring based on compliance status with **NIST SP 800-53**, and visualizes real-time security posture for executive stakeholders.
 
 ### ☁️ [Cloud Risk Analyst Internship](https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md)
-- Served as a **Cybersecuirty Cloud Risk Anlayst**, scanning and identifying vulnerabilities in an **AWS cloud environment**.
-- Mapped controls to **NIST SP 800-171** and developed a risk register complete with *risk matrices*, severity classfication, mitigation recommendations, and cross-framework mapping to ISCO 2001 and SOC 2.
+- Served as a **Cybersecurity Cloud Risk Analyst**, scanning and identifying vulnerabilities in an **AWS cloud environment**.
+- Mapped controls to **NIST SP 800-171** and developed a risk register complete with *risk matrices*, severity classfication, mitigation recommendations, and cross-framework mapping to ISO 27001 and SOC 2.
 
 ### 🛡️ [PwC CyberSecurity Consulting Program](programs/PwC_Cyber_Security_Consulting_Program.pdf)
 - Served as a **Cyber Security Consultant** to assess a client's **Procure-to-Pay (P2P)** lifecycle against **SOX compliance** requirements, identifying **6 key control failures** including Segregation of Duties (SoD) conflicts.
