@@ -22,7 +22,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
   - [PwC Cybersecurity Consulting (SOX Audit)](#pwc-cybersecurity)
   
 - [Technical Projects](#projectsactivities)
-  - [ServiceNow GRC: NIST ComplianceGuard App](#servicenow)
+  - [ServiceNow GRC: Automated NIST ComplianceGuard Dashboard](#servicenow)
   - [Web Development: CodePath Intro to Web Dev](#codepath)
  
 - [Certifications](#certifications)
@@ -61,7 +61,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 ## Technical Projects
 
 <a name="servicenow"></a>
-### ServiceNow GRC: "NIST ComplianceGuard" Application
+### ServiceNow GRC: Automated "NIST ComplianceGuard" Dashboard
 [View Full Repository](https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main)
    - Designed, architected, and deployed a **custom GRC application** within **ServiceNow** to automate the lifecycle of **NIST SP 800-53** controls.
    - **Built Custom Data Tables** to ingest Authority Documents (NIST Standards), creating a relational database that links specific regulations to internal policy citations.
