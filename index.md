@@ -49,10 +49,9 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 * **CompTIA Security+**
 * **ISACA CISA (In Progress)**
 * **AWS Academy Cloud Security Foundations**
-* **ServiceNow System Adminsitrator Associate (In Progress)**
-* **Qualys Vulnerability Management (In Progress)**
-* **Qualys Policy Complaince**
-
+* **Qualys Vulnerability Management** (In Progress)
+* **Qualys Policy Complaince** (In Progress)
+* **ServiceNow System Adminsitrator Associate** (In Progress)
 
 ---
 
@@ -77,45 +76,47 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 ## 💡 Skills
 
 ### 🛡️ Technical & GRC Skills
-- Risk Assessment & Mitigation
-- Risk Register
-- Risk Management
-- Risk Matrix
-- Dashboarding
-- Compliance Mapping
-- Cross-Walking Frameworks
-- Audit Walkthrough
-- Maturity Modeling/Assessment
-- Third-Party Risk Management (TPRM)
-- Control Gap Analysis
-- Automated Workflow Configuration
 - Audit Evidence Collection
+- Audit Walkthrough
+- Automated Workflow Configuration
+ - CIS Controls
+- Compliance Mapping
+- Control Gap Analysis
+- Cross-Walking Frameworks
+- Dashboarding
 - IT General Controls (ITGC)
+- Maturity Modeling/Assessment
 - Governance, Risk, and Compliance & Frameworks:
-  - HIPAA
-  - GDPR
-  - PCI DSS
-  - SOX (Sarbanes-Oxley Act)
   - COSO (Committee of Sponsoring Organizations of the Treadway Commission)
+  - GDPR
+  - HIPAA
+  - ISO 27001
   - Nationwide Cybersecurity Review (NCSR)
   - NIST Cybersecurity Framework (CSF)
   - NIST Risk Management Framework (RMF)
   - NIST SP 800-37
   - NIST SP 800-53
   - NIST SP 800-171
-  - ISO 27001
+  - PCI DSS
   - SOC 2
-  - CIS Controls
+  - SOX (Sarbanes-Oxley Act)
+- Risk Assessment & Mitigation
+- Risk Register
+- Risk Management
+- Risk Matrix
+- Third-Party Risk Management (TPRM)
+ 
 
 ### 💼 Professional Skills
-  - Legal Analysis
-  - Documentation & Presentation
   - Attention to Detail
-  - Executive Reporting
   - Critical Thinking
+  - Documentation & Presentation
   - Ethical Decision Making
-  - Teamwork
+  - Executive Reporting
+  - Legal Analysis
+  - Log Analysis
   - Stakeholder Management
+  - Teamwork
 
 ### 🧠 Core Security Concepts
 - Identity and Access Management (IAM)
@@ -136,6 +137,7 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
   - Word
   - PowerPoint
   - Excel (Pivot Tables, Dashboard, Risk Modeling, VLOOKUP)
+  
 ---
 
 <a name="projects"></a>
