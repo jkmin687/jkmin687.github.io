@@ -160,7 +160,7 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
    - **Presented Strategic Remediation Plans** to the Audit Committee, recommending the implementation of Role-Based Access Control (RBAC) to resolve the SoD conflicts.
 
 ### ServiceNow GRC: Automated "NIST ComplianceGuard" Application
-[View Full Repository](https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main)
+[View Full Repository](programs/ServiceNow_ComplianceGuard_Application.pdf.pdf)
    - Designed, architected, and deployed a **custom GRC application** within **ServiceNow** to automate the lifecycle of **NIST SP 800-53** controls.
    - **Built Custom Data Tables** to ingest Authority Documents (NIST Standards), creating a relational database that links specific regulations to internal policy citations.
    - **Created Executive Dashboards**, visualizing real-time compliance posture using pie charts and heat maps to show the percentage of "Compliant" vs. "Non-Compliant" controls.
