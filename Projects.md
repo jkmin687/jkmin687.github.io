@@ -61,12 +61,13 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 ## Technical Projects
 
 <a name="servicenow"></a>
-### ServiceNow GRC: Automated "NIST ComplianceGuard" Dashboard
-[View Full Repository](https://github.com/jkmin687/NCSR-Based-Cybersecurity-Maturity-Assessment/tree/main)
-   - Designed, architected, and deployed a **custom GRC application** within **ServiceNow** to automate the lifecycle of **NIST SP 800-53** controls.
-   - **Built Custom Data Tables** to ingest Authority Documents (NIST Standards), creating a relational database that links specific regulations to internal policy citations.
-   - **Created Executive Dashboards**, visualizing real-time compliance posture using pie charts and heat maps to show the percentage of "Compliant" vs. "Non-Compliant" controls.
-   - **Reduced Audit Fatigue**, demonstrating how automated evidence collection can reduce the manual workload of spreadsheet-based compliance by over 40%.
+### ServiceNow GRC: Automated "NIST ComplianceGuard" Application
+[View Full Repository](programs/ServiceNow_ComplianceGuard_Dashboard.pdf.pdf)
+   - Engineered a custom Governance, Risk, and Compliance (GRC) Application within ServiceNow, migrating an organization from static Excel spreadsheets to an automated system of record based on the **NIST SP 800-53** framework.
+   - **Architected the Database Schema** by extending the core Task table to ensure audit trail inheritance and executed ETL (Extract, Transform, Load) operations to normalize raw data using Transform Maps and Coalescing strategies.
+   - Reduced **Mean Time to Respond (MTTR)** to critical compliance failures by **99%** (cutting reaction time from ~24 hours to <5 seconds) by implementing **Server-Side Logic** and **Flow Designer** workflows that instantly trigger remediation incidents.
+   - Conducted **User Acceptance Testing (UAT)** via a "Smoke Test" simulation (SIM-999), verifying that a control failure immediately triggered the automated remediation workflow and alert system.
+   - **Designed a "CISO Command Center" Dashboard**, providing executives with real-time visualization of the organization's security posture through **Compliance Overview** charts and **Critical Action Item** lists.
 
 <a name="codepath"></a>
 ### CodePath Intro to Web Development Project
