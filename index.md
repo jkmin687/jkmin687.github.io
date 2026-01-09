@@ -59,14 +59,14 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 ## 🎓 Education & Affiliations
 - ***ISACA Atlanta Chapter*** (Since 2026)
   - Member of ISACA's Atlanta Chapter 
-- ***Codepath, Intro to Web Development 101*** (Fall 2023)
-  - Completed an introduction to Web Development course provided by Codepath.
-  - Designed and deployed a mock website utilizing HTML, CSS, and JavaScript. 
 - ***Georgia State University, Atlanta, GA*** (2020-2025)
   - Bachelor's in Business Administration, Major in Computer Information Systems, Concentration in Cybersecurity, Minor in Korean Language
   - Clubs: Programming Club (Event Lead), Women in Tech, Cybersecurity Club
   - Dean's List 2023-2025
   - Completed coursework in Introduction to Programming (Python), Intro to Cybersecurity, Systems and Network Security, Cybersecurity Tools, Principles of Accounting I & II
+ - ***Codepath, Intro to Web Development 101*** (Fall 2023)
+  - Completed an introduction to Web Development course provided by Codepath.
+  - Designed and deployed a mock website utilizing HTML, CSS, and JavaScript. 
 - ***North Gwinnett High School, Suwanee, GA*** (2016-2020)
   - High School Diploma
   - Graduated from a Top 20 ranked Georgia public high school, known for College Prep and STEM
