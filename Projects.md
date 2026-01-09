@@ -23,7 +23,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
   
 - [Technical Projects](#projectsactivities)
   - [ServiceNow GRC: Automated NIST ComplianceGuard Dashboard](#servicenow)
-  - [University of California Maturity Assessment](#ucriskassess)
+  - [University of California Maturity Assessment](#ucnistcsf)
   - [Web Development: CodePath Intro to Web Dev](#codepath)
  
 - [Certifications](#certifications)
@@ -74,14 +74,14 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
    - Conducted **User Acceptance Testing (UAT)** via a "Smoke Test" simulation (SIM-999), verifying that a control failure immediately triggered the automated remediation workflow and alert system.
    - **Designed a "CISO Command Center" Dashboard**, providing executives with real-time visualization of the organization's security posture through **Compliance Overview** charts and **Critical Action Item** lists.
 
-<a name="ucriskassess"></a>
-### ServiceNow GRC: Automated "NIST ComplianceGuard" Application
-[View Full Report](programs/ServiceNow_ComplianceGuard_Dashboard.pdf.pdf)
-   - Engineered a custom Governance, Risk, and Compliance (GRC) Application within ServiceNow, migrating an organization from static Excel spreadsheets to an automated system of record based on the **NIST SP 800-53** framework.
-   - **Architected the Database Schema** by extending the core Task table to ensure audit trail inheritance and executed ETL (Extract, Transform, Load) operations to normalize raw data using Transform Maps and Coalescing strategies.
-   - Reduced **Mean Time to Respond (MTTR)** to critical compliance failures by **99%** (cutting reaction time from ~24 hours to <5 seconds) by implementing **Server-Side Logic** and **Flow Designer** workflows that instantly trigger remediation incidents.
-   - Conducted **User Acceptance Testing (UAT)** via a "Smoke Test" simulation (SIM-999), verifying that a control failure immediately triggered the automated remediation workflow and alert system.
-   - **Designed a "CISO Command Center" Dashboard**, providing executives with real-time visualization of the organization's security posture through **Compliance Overview** charts and **Critical Action Item** lists.
+<a name="ucnistcsf"></a>
+### University of California NIST CSF Maturity Assessment
+[View Full Report](programs/UC_NISTCSF.md)
+   - Conducted a Policy-to-Framework Traceability Audit, mapping the University of California System’s comprehensive security policy library against all **108 Subcategories of the NIST Cybersecurity Framework (CSF) v1.1.**
+   - Executed a **Quantitative Maturity Assessment** utilizing the **National Cyber Security Review (NCSR) methodology**, assigning maturity scores (Scale 1-7) to evaluate the "Test of Design" for controls across the Identify, Protect, Detect, Respond, and Recover functions.
+   - Developed a **Gap Analysis Dashboard** on Microsoft Excel, creating color-coded visualizations to immediately highlight critical policy deficiencies versus areas of optimized process maturity.
+   - Engineered a scalable control matrix, structuring the data to be **"cross-walkable"** to other regulatory standards (e.g., ISO 27001 and NIST SP 800-53), allowing for "test once, comply many" audit efficiency.
+   - Performed Open-Source Intelligence (OSINT) Analysis, simulating a third-party risk assessment by evaluating the organization's security posture strictly through publicly available governance documentation
 
 <a name="codepath"></a>
 ### CodePath Intro to Web Development Project
