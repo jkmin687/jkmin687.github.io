@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-### [Home](index.html) | [About Me](AboutMe.html) | [Resume](documents/Full_Resume.pdf) | [Professional Statement](Professional_Statement.html)
+### [Home](index.md) | [About Me](AboutMe.md) | [Resume](documents/Full_Resume.pdf) | [Professional Statement](Professional_Statement.md)
 
 ---
 
