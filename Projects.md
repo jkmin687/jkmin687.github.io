@@ -44,7 +44,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 <a name="deloitte"></a>
 ### Deloitte Cyber Program
-[View Full Report]()
+[View Full Report](programs/Deloitte_Cyber_Program.pdf)
    - Served as a Cybersecurity Analyst investigating the weba activity logs of a suspected security breach.
    - Conducted Behavioral Traffic Analysis on server logs to distinguish between legitimate human users and automated bots, specifically identifying headless browsing patterns where API data was queried without dashboard resources needed to display data.
    - Identified a Critical Anomaly, isolating a specific User ID that exhibited a mechanical "heartbeat" signature, executing requests at the exact same second every hour (e.g., XX:00:48).
