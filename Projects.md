@@ -75,7 +75,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 <a name="codepath"></a>
 ### CodePath Intro to Web Development Project
-[View Full Report](README.md)
+[View Full Report](programs/Codepath_Web101.md)
    - Completed an intensive 10-week **Intro to Web Development** course, gaining foundational knowledge in developing a function website from the bottom-up.
    - **Developed a Responsive Website** utilizing **HTML, CSS, and JavaScript**, ensuring cross-browser compatibility and mobile responsiveness.
    - **Implemented API Integrations**, fetching data from external sources to display dynamic content to the user.
