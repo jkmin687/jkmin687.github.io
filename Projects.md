@@ -67,7 +67,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 <a name="servicenow"></a>
 ### ServiceNow GRC: Automated "NIST ComplianceGuard" Application
-[View Full Report](programs/ServiceNow_ComplianceGuard_Dashboard.pdf.pdf)
+[View Full Report](programs/ServiceNow_ComplianceGuard_Application.pdf)
    - Engineered a custom Governance, Risk, and Compliance (GRC) Application within ServiceNow, migrating an organization from static Excel spreadsheets to an automated system of record based on the **NIST SP 800-53** framework.
    - **Architected the Database Schema** by extending the core Task table to ensure audit trail inheritance and executed ETL (Extract, Transform, Load) operations to normalize raw data using Transform Maps and Coalescing strategies.
    - Reduced **Mean Time to Respond (MTTR)** to critical compliance failures by **99%** (cutting reaction time from ~24 hours to <5 seconds) by implementing **Server-Side Logic** and **Flow Designer** workflows that instantly trigger remediation incidents.
