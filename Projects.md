@@ -45,6 +45,10 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 <a name="deloitte"></a>
 ### Deloitte Cyber Program
 [View Full Report]()
+   - Served as a Cybersecurity Analyst investigating the weba activity logs of a suspected security breach.
+   - Conducted Behavioral Traffic Analysis on server logs to distinguish between legitimate human users and automated bots, specifically identifying headless browsing patterns where API data was queried without dashboard resources needed to display data.
+   - Identified a Critical Anomaly, isolating a specific User ID that exhibited a mechanical "heartbeat" signature, executing requests at the exact same second every hour (e.g., XX:00:48).
+   - Analyzed session persistence, discovering a "zombie script" that continued to query the system for 16 hours despite receiving consecutive 401 Unauthorized errors, indicating non-human user traits.
 
 <a name="pwc-cybersecurity"></a>
 ### PwC Cyber Security Consulting Program: SOX & ITGC
