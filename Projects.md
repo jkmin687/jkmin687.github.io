@@ -35,7 +35,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 ## Programs & Internships
 
 <a name="aws-project"></a>
-### Cybersecurity Cloud Risk Analyst Internship: AWS & NIST 800-171
+### GSU Cybersecurity Cloud Risk Analyst Internship
 [View Full Report](Cyber_Risk_Internship.md)
    - Served as a **Cloud Risk Analyst** responsible for assessing the security posture of a simulated **AWS environment** handling Controlled Unclassified Information (CUI).
    - **Executed Automated Vulnerability Scans** using **AWS Prowler** and **Qualys TotalCloud**, analyzing thousands of lines of JSON output to identify critical misconfigurations such as open S3 buckets and lack of MFA on root accounts.
