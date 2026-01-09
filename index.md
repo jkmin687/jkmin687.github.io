@@ -144,7 +144,7 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
 ## 📂 Featured Projects & Experiences
 
 ### Cloud Risk Analyst Internship: AWS & NIST 800-171
-[View Full Report](https://github.com/jkmin687/Risk-Analyst-Internship/blob/main/README.md)
+[View Full Report](Cyber_Risk_Internship.md)
    - Served as a **Cloud Risk Analyst** responsible for assessing the security posture of a simulated **AWS environment** handling Controlled Unclassified Information (CUI).
    - **Executed Automated Vulnerability Scans** using **AWS Prowler** and **Qualys TotalCloud**, analyzing thousands of lines of JSON output to identify critical misconfigurations such as open S3 buckets and lack of MFA on root accounts.
    - **Performed Framework Mapping**, translating technical scan findings into **NIST SP 800-171** control gaps (e.g., Mapping "MFA Missing" to *Control 3.5.3*).
