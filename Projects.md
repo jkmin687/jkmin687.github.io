@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-### [Home](index.md) | [About Me](AboutMe.md) | [Resume](documents/Full_Resume.pdf) | [Professional Statement](Professional_Statement.md)
+### [Home](index.md) | [About Me](AboutMe.md) | [Resume](images/Justin_Min_Resume.pdf) | [Professional Statement](Professional_Statement.md)
 
 ---
 
