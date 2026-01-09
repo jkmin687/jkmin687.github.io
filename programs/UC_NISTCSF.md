@@ -37,5 +37,3 @@ The selection of UC System's security posture was for good reason; their broad a
 - Data Visualization
 
 [View the Full NCSR Project](https://jkmin687.github.io/Framework-Mapping-and-Gap-Analaysis-Using-NIST-CSF/)
-
-[Google Spreadsheet Direct Access](https://docs.google.com/spreadsheets/d/1nocig4Vi5JNqw2B1hXxfaKuHODKgBVV6ihlbz0Tek6k/edit?usp=sharing)
