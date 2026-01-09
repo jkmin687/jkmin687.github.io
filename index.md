@@ -30,7 +30,7 @@ With a unique background in legal compliance and cybersecurity, I have hands-on 
 
 ####  _Protecting the future by securing the present._
 
-**Read more:** [More about me](AboutMe.html) | [Professional Statement](Professional_Statement.html)
+**Read more:** [More about me](AboutMe.md) | [Professional Statement](ProfessionalStatement.md)
 
 ---
 
