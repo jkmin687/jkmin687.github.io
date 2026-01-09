@@ -7,7 +7,7 @@ title: Home
 
 Welcome to my professional showcase. Here, you’ll find my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
 
-### [About Me](AboutMe.md) | [Projects](Projects.md) | [Resume](documents/Full_Resume.pdf)
+### [About Me](AboutMe.md) | [Projects](Projects.md) | [Resume](images/Justin_Min_Resume.pdf)
 
 ---
 
