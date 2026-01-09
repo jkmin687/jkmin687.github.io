@@ -13,7 +13,7 @@ title: Professional Statement
 
 I am a Cybersecurity Governance, Risk, and Compliance (GRC) professional dedicated to bridging the critical gap between technical security operations and executive business strategy. In an era where data is a currency and trust is a competitive advantage, I believe that effective cybersecurity is not just about blocking threats—it is about enabling the business to operate with confidence.
 
-My approach to cybersecurity is rooted in **Risk Contextualization**. A vulnerability is just a technical flaw until it is viewed through the lens of business impact. My goal is to translate complex technical risks into clear, actionable intelligence that stakeholders can use to make informed decisions. With a background in Computer Information Systems (Cybersecurity) and legal law as a Paralegal, I possess the unique ability to understand both the "system" and the "law" elements of security, allowing me to orchestrate compliance programs that are compliant both on book and in action.
+My approach to cybersecurity is rooted in Risk Contextualization. A vulnerability is just a technical flaw until it is viewed through the lens of business impact. My goal is to translate complex technical risks into clear, actionable intelligence that stakeholders can use to make informed decisions. With a background in Computer Information Systems (Cybersecurity) and legal law as a Paralegal, I possess the unique ability to understand both the "system" and the "law" elements of security, allowing me to orchestrate compliance programs that are compliant both on book and in action.
 
 ### 🏛️ Core Values
 
