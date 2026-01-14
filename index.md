@@ -101,10 +101,12 @@ Today, I possess a unique blend of experiences that bridge the gap between legal
   - PCI DSS
   - SOC 2
   - SOX (Sarbanes-Oxley Act)
+- Operating Effectiveness (OE)
 - Risk Assessment & Mitigation
 - Risk Register
 - Risk Management
 - Risk Matrix
+- Test of Design (ToD)
 - Third-Party Risk Management (TPRM)
  
 ### 💼 Professional Skills
