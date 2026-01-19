@@ -36,10 +36,17 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 <a name="programs-and-internships"></a>
 ## Programs & Internships
 
+<a name="telstra"></a>
+[View Full Report](programs/Telstra_Cybersecurity_Program.pdf)
+### Telstra Cybersecurity SOC Program
+   - Executed Incident Triage & Risk Assessment during a simulated enterprise malware outbreak, evaluating the business impact of compromised infrastructure to prioritize response efforts and streamline stakeholder communication.
+   - Implemented Technical Security Controls by developing a Python script to automate firewall rule configuration, reducing mitigation response time by ~90% (versus manual CLI entry) and instantly neutralizing the active threat vector.
+   - Authored a comprehensive Incident Postmortem Directive, documenting the root cause analysis (RCA) and quantifying control failures to drive continuous process improvement in the organization's security governance framework.
+
 <a name="aws-project"></a>
-### GSU Cybersecurity Cloud Risk Analyst Internship
+### GSU Cybersecurity Lead Cloud Risk Analyst Internship
 [View Full Report](Cyber_Risk_Internship.md)
-   - Served as a **Cloud Risk Analyst** responsible for assessing GSU's security posture of a simulated **AWS environment** handling Controlled Unclassified Information (CUI).
+   - Served as the Lead **Cloud Risk Analyst** responsible for assessing GSU's security posture of a simulated **AWS environment** handling Controlled Unclassified Information (CUI).
    - **Executed Automated Vulnerability Scans** using **AWS Prowler** and **Qualys TotalCloud**, analyzing thousands of lines of JSON output to identify critical misconfigurations such as open S3 buckets and lack of MFA on root accounts.
    - **Performed Framework Mapping**, translating technical scan findings into **NIST SP 800-171** control gaps (e.g., Mapping "MFA Missing" to *Control 3.5.3*).
    - **Developed a Risk Register**, calculating risk scores based on likelihood and impact, and assigning severity levels (Critical/High/Medium/Low) to guide executive remediation prioritization.
@@ -73,13 +80,6 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
    - Engineered an automated ETL (Extract, Transform, Load) pipeline using Python (Pandas) to ingest and standardize unstructured vendor "loan tapes," successfully resolving critical data discrepancies (specifically inconsistent date formats) to prepare the dataset for investment review.
    - Architected a scalable data workflow by cleaning messy loan data into a local SQLite database, enabling the execution of SQL queries to aggregate portfolio-level risk metrics rather than relying on manual, error-prone spreadsheet manipulations.
    - Conducted asset-level due diligence on a 2025 consumer loan vintage, generating a Risk Assessment Memorandum in Excel that identified a 25% early-default rate, providing the Investment Team with data-driven evidence to pause acquisition of the asset class.
-
-<a name="telstra"></a>
-[View Full Report](programs/Telstra_Cybersecurity_Program.pdf)
-### Telstra Cybersecurity SOC Program
-   - Executed Incident Triage & Risk Assessment during a simulated enterprise malware outbreak, evaluating the business impact of compromised infrastructure to prioritize response efforts and streamline stakeholder communication.
-   - Implemented Technical Security Controls by developing a Python script to automate firewall rule configuration, reducing mitigation response time by ~90% (versus manual CLI entry) and instantly neutralizing the active threat vector.
-   - Authored a comprehensive Incident Postmortem Directive, documenting the root cause analysis (RCA) and quantifying control failures to drive continuous process improvement in the organization's security governance framework.
 
 <a name="servicenow"></a>
 ### ServiceNow GRC: Automated "NIST ComplianceGuard" Application
