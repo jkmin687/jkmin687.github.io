@@ -74,7 +74,7 @@ Below are the documents and presentations delivered to the Georgia State Univers
 * **📄 Executive Summary:** [View Executive Summary](images/Executive Summary - GSU Cybersecurity Team copy.docx.pdf)
 * **📊 Final Client Presentation:** [View PowerPoint Slides](images/Cloud Risk Assessment Team Presentation.pptx.pdf)
 * **📝 Deep Dive: NIST 800-171 Finding:** [View Technical Finding Report](images/AWS Prowler Failed Finding_NIST 800-171 Deepdive.pdf)
-* **📅 Project Schedule:** [View Project Timeline](Weekly_CIS_4980_Spring_2025_Capstone_Schedule_with_GSU_Cybersecurity_Team.xlsx_-_Sheet1.csv)
+* **📅 Project Schedule:** [View Project Timeline](documents/Weekly CIS 4980 Spring 2025 Capstone Schedule with GSU Cybersecurity Team.csv)
 
 ---
 
