@@ -71,10 +71,10 @@ During the assessment, we identified several critical security gaps. Two notable
 
 Below are the documents and presentations delivered to the Georgia State University Cybersecurity Team:
 
-* **📄 Executive Summary: [View Executive Summary](images/executive_summary.pdf)
-* **📊 Final Client Presentation: [View PowerPoint Slides](images/cloud_risk_team_presentation.pptx.pdf)
-* **📝 Deep Dive: NIST 800-171 Finding: [View Technical Finding Report](images/aws_deepdive.pdf)
-* **📅 Project Schedule: [View Project Timeline](images/internship_schedule.csv)
+* **📄 Executive Summary: [View Executive Summary](../images/executive_summary.pdf)
+* **📊 Final Client Presentation: [View PowerPoint Slides](../images/cloud_risk_team_presentation.pptx.pdf)
+* **📝 Deep Dive: NIST 800-171 Finding: [View Technical Finding Report](../images/aws_deepdive.pdf)
+* **📅 Project Schedule: [View Project Timeline](../images/internship_schedule.csv)
 
 ---
 
