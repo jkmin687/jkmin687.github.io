@@ -74,7 +74,7 @@ Below are the documents and presentations delivered to the Georgia State Univers
 * **📄 Executive Summary: [View Executive Summary](images/executive_summary.pdf)
 * **📊 Final Client Presentation: [View PowerPoint Slides](images/cloud_risk_team_presentation.pptx.pdf)
 * **📝 Deep Dive: NIST 800-171 Finding: [View Technical Finding Report](images/aws_deepdive.pdf)
-* **📅 Project Schedule: [View Project Timeline](<documents/Weekly CIS 4980 Spring 2025 Capstone Schedule with GSU Cybersecurity Team.csv>)
+* **📅 Project Schedule: [View Project Timeline](images/internship_schedule.csv)
 
 ---
 
