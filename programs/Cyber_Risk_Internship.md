@@ -74,7 +74,7 @@ Below are the documents and presentations delivered to the Georgia State Univers
 * **📄 Executive Summary: [View Executive Summary](../images/executive_summary.pdf)
 * **📊 Final Client Presentation: [View PowerPoint Slides](../images/cloud_risk_team_presentation.pptx.pdf)
 * **📝 Deep Dive: NIST 800-171 Finding: [View Technical Finding Report](../images/aws_deepdive.pdf)
-* **📅 Project Schedule: [View Project Timeline](../images/internship_schedule.csv)
+* **📅 Project Schedule: [View Project Timeline](https://github.com/jkmin687/jkmin687.github.io/blob/main/images/internship_schedule.csv)
 
 ---
 
