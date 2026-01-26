@@ -45,7 +45,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 
 <a name="aws-project"></a>
 ### GSU Cybersecurity Lead Cloud Risk Analyst Internship
-[View Full Report](Cyber_Risk_Internship.md)
+[View Full Report](programs/Cyber_Risk_Internship.md)
    - Served as the Lead **Cloud Risk Analyst** responsible for assessing GSU's security posture of a simulated **AWS environment** handling Controlled Unclassified Information (CUI).
    - **Executed Automated Vulnerability Scans** using **AWS Prowler** and **Qualys TotalCloud**, analyzing thousands of lines of JSON output to identify critical misconfigurations such as open S3 buckets and lack of MFA on root accounts.
    - **Performed Framework Mapping**, translating technical scan findings into **NIST SP 800-171** control gaps (e.g., Mapping "MFA Missing" to *Control 3.5.3*).
