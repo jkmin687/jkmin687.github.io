@@ -71,7 +71,7 @@ During the assessment, we identified several critical security gaps. Two notable
 
 Below are the documents and presentations delivered to the Georgia State University Cybersecurity Team:
 
-* **📄 Executive Summary:** [View Executive Summary](Executive_Summary_-_GSU_Cybersecurity_Team_copy.docx)
+* **📄 Executive Summary:** [View Executive Summary](images/Executive Summary - GSU Cybersecurity Team copy.docx.pdf)
 * **📊 Final Client Presentation:** [View PowerPoint Slides](Cloud_Risk_Assessment_Team_Presentation.pptx)
 * **📝 Deep Dive: NIST 800-171 Finding:** [View Technical Finding Report](AWS_Prowler_Failed_Finding/NIST_800-171_Deepdive)
 * **📅 Project Schedule:** [View Project Timeline](Weekly_CIS_4980_Spring_2025_Capstone_Schedule_with_GSU_Cybersecurity_Team.xlsx_-_Sheet1.csv)
